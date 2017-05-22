@@ -27,8 +27,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Info
 
-Anyways I don't have much things to say right now, but I will soon.
+This page is for updates and things like that.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me at catmeowmeowmew@gmail.com
